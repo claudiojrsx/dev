@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\TextEditor\\TextEditor.csproj": {}
+    "C:\\Users\\Illuvatar\\downloads\\dev\\texteditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\TextEditor\\TextEditor.csproj": {
+    "C:\\Users\\Illuvatar\\downloads\\dev\\texteditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\texteditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\TextEditor\\TextEditor.csproj",
+        "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\texteditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\Illuvatar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\TextEditor\\obj\\",
+        "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\texteditor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Illuvatar\\AppData\\Roaming\\NuGet\\NuGet.Config",

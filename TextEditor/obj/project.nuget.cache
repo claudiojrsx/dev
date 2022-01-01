@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DrVEMK9LPh1cwo18IJ4+MU64sSrazXZNaEE8hI73yKNSP2bSKTblPYyvigUok5LL4UZxTFXDKVlNzPUdezGIew==",
+  "dgSpecHash": "oLVKx7xZnS03LiHM+WZDHwpp4qNqIX8bzRzEHS9ny/xyG+j5sWwoV38GK+2cV3g38u9vtXv9fVgDgMWIgPGToA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Illuvatar\\downloads\\dev\\TextEditor\\TextEditor.csproj",
+  "projectFilePath": "C:\\Users\\Illuvatar\\downloads\\dev\\texteditor\\TextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

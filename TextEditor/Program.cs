@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace TextEditor
 {
@@ -29,7 +30,19 @@ namespace TextEditor
 
     static void Abrir()
     {
+      Console.Clear();
+      Console.WriteLine("Qual caminho do arquivo?");
+      string path = Console.ReadLine();
 
+      using (var file = new StreamReader(path))
+      {
+        string text = file.ReadToEnd(); //ReadToEnd ler até o final.
+        Console.WriteLine(text);
+      }
+
+      Console.WriteLine("");
+      Console.ReadLine();
+      Menu();
     }
 
     static void Editar()
@@ -39,6 +52,7 @@ namespace TextEditor
       Console.WriteLine("-----------------------");
       string text = "";
 
+      // Para executar algo antes do While devemos usar o Do
       do
       {
         text += Console.ReadLine();
@@ -46,7 +60,23 @@ namespace TextEditor
       }
       while (Console.ReadKey().Key != ConsoleKey.Escape);
 
-      Console.Write(text);
+      Salvar(text);
+    }
+
+    static void Salvar(string text)
+    {
+      Console.Clear();
+      Console.WriteLine("Qual caminho você deseja salvar o arquivo?");
+      var path = Console.ReadLine();
+
+      using (var file = new StreamWriter(path))
+      {
+        file.Write(text);
+      }
+
+      Console.WriteLine($"Arquivo {path} salvo com sucesso!");
+      Console.ReadLine();
+      Menu();
     }
   }
 }
