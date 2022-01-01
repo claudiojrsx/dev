@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\Calculator.csproj": {}
+    "C:\\Users\\Illuvatar\\downloads\\dev\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\Calculator.csproj": {
+    "C:\\Users\\Illuvatar\\downloads\\dev\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Illuvatar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\obj\\",
+        "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Illuvatar\\AppData\\Roaming\\NuGet\\NuGet.Config",
