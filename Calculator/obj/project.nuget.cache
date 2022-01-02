@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BJyMpNtkOkbTbs379J/ZKYv1mCcFc+hvccP+zDYiC8J2x25JquWzuNZkSTBIpPngDoXqLc4SEjV3vO55T4+JIw==",
+  "dgSpecHash": "pI7rbhdk5goJ1jHqfZHyNTpcwCEQjYniQj6U2/MmL2/dnL4gmON7rRZ/trHB59nq7RM7GnV3Mw3HEhM/PS0SEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Illuvatar\\downloads\\dev\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

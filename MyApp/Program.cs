@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace MyApp
 {
@@ -16,7 +17,7 @@ namespace MyApp
             id = new Guid(); // Aqui não recebe o valor pois não usamos o NewGuid()
             //Console.WriteLine(id.ToString().Substring(0, 8));
 
-            MetodosAdicionais();
+            StringsBuilders();
         }
         
         // Aula de Interpolação
@@ -76,6 +77,7 @@ namespace MyApp
             Console.WriteLine(indices.LastIndexOf("e")); // LastIndexOf ele conta a quantidade de casas até a última letra.
         }
 
+        // Aula 07 Metodos Adicionais
         static void MetodosAdicionais()
         {
             var lower = "ESSE É UM TEXTO GRANDE";
@@ -86,6 +88,39 @@ namespace MyApp
             Console.WriteLine(upper.Insert(5, "AQUI ")); // Adiciona um texto dentro de outro.
             Console.WriteLine(upper.Remove(5, 0)); // Remove uma parte do texto.
             Console.WriteLine(lower.Length);
+        }
+
+        static void ManipulandoStrings()
+        {
+            var strings = "Este texto é um teste";
+            Console.WriteLine(strings.Replace("e", "T")); // StringComparison.OrdinalIgnoreCase usar isso para ignorar o Case Sensitive.
+
+            var divisao = strings.Split(" ");
+            Console.WriteLine(strings[..^0]); // Pega do final e limita conforme coloca a quantidade de caracteres.
+
+            Console.WriteLine(divisao[0]);
+            Console.WriteLine(divisao[1]);
+            Console.WriteLine(divisao[2]);
+            Console.WriteLine(divisao[3]);
+            Console.WriteLine(divisao[4]);
+
+            //var resultado = strings.Substring(5, 5);
+            var resultado = strings.Substring(5, strings.LastIndexOf("o"));
+            Console.WriteLine(resultado);
+
+            Console.WriteLine(strings.Trim());
+        }
+
+        static void StringsBuilders() //StringBuilder junta os textos quando se usa Append
+        {
+            var texto = new StringBuilder();
+            texto.Append("Esse texto é um teste");
+            texto.Append("é um teste");
+            texto.Append("um teste");
+            texto.Append("Esse é um teste");
+
+            texto.ToString();
+            Console.WriteLine(texto);
         }
     }
 }
