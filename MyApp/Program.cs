@@ -16,8 +16,7 @@ namespace MyApp
             id = new Guid(); // Aqui não recebe o valor pois não usamos o NewGuid()
             //Console.WriteLine(id.ToString().Substring(0, 8));
 
-            //Price();
-            Indices();
+            MetodosAdicionais();
         }
         
         // Aula de Interpolação
@@ -73,7 +72,20 @@ namespace MyApp
 
             var indices = "Este texto é um teste";
 
-            Console.WriteLine(indices);
+            Console.WriteLine(indices.IndexOf("é")); // IndexOf ele conta a quantidade de casas até chegar na palavra.
+            Console.WriteLine(indices.LastIndexOf("e")); // LastIndexOf ele conta a quantidade de casas até a última letra.
+        }
+
+        static void MetodosAdicionais()
+        {
+            var lower = "ESSE É UM TEXTO GRANDE";
+            var upper = "esse é um texto pequeno";
+
+            Console.WriteLine(lower.ToLower()); // Transformando o texto em tudo minusculo.
+            Console.WriteLine(upper.ToUpper()); // Transformando o texto em tudo MAIUSCULO.
+            Console.WriteLine(upper.Insert(5, "AQUI ")); // Adiciona um texto dentro de outro.
+            Console.WriteLine(upper.Remove(5, 0)); // Remove uma parte do texto.
+            Console.WriteLine(lower.Length);
         }
     }
 }
