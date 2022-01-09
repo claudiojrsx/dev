@@ -1,0 +1,16 @@
+C:\Users\Illuvatar\downloads\dev\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\Illuvatar\downloads\dev\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\Illuvatar\downloads\dev\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\Illuvatar\downloads\dev\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\Illuvatar\downloads\dev\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\Illuvatar\downloads\dev\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\Illuvatar\downloads\dev\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\Illuvatar\downloads\dev\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
