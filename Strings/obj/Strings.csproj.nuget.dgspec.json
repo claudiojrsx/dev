@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\EditorHTML\\EditorHTML.csproj": {}
+    "C:\\Users\\Illuvatar\\downloads\\dev\\strings\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\EditorHTML\\EditorHTML.csproj": {
+    "C:\\Users\\Illuvatar\\downloads\\dev\\strings\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\EditorHTML\\EditorHTML.csproj",
-        "projectName": "EditorHTML",
-        "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\EditorHTML\\EditorHTML.csproj",
+        "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\strings\\Strings.csproj",
+        "projectName": "Strings",
+        "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\strings\\Strings.csproj",
         "packagesPath": "C:\\Users\\Illuvatar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\EditorHTML\\obj\\",
+        "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Illuvatar\\AppData\\Roaming\\NuGet\\NuGet.Config",

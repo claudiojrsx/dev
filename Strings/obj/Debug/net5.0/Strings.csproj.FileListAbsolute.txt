@@ -1,0 +1,16 @@
+C:\Users\Illuvatar\downloads\dev\strings\bin\Debug\net5.0\Strings.exe
+C:\Users\Illuvatar\downloads\dev\strings\bin\Debug\net5.0\Strings.deps.json
+C:\Users\Illuvatar\downloads\dev\strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+C:\Users\Illuvatar\downloads\dev\strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+C:\Users\Illuvatar\downloads\dev\strings\bin\Debug\net5.0\Strings.dll
+C:\Users\Illuvatar\downloads\dev\strings\bin\Debug\net5.0\ref\Strings.dll
+C:\Users\Illuvatar\downloads\dev\strings\bin\Debug\net5.0\Strings.pdb
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\Strings.dll
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\ref\Strings.dll
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\Strings.pdb
+C:\Users\Illuvatar\downloads\dev\strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache

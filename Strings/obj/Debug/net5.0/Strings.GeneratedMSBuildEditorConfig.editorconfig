@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Stopwatch
-build_property.ProjectDir = c:\Users\Illuvatar\downloads\dev\Stopwatch\
+build_property.RootNamespace = Strings
+build_property.ProjectDir = C:\Users\Illuvatar\downloads\dev\strings\
