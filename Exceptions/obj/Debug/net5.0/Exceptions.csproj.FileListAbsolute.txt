@@ -1,0 +1,16 @@
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\bin\Debug\net5.0\Exceptions.exe
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\bin\Debug\net5.0\Exceptions.dll
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\Exceptions.dll
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+C:\Users\meuCOB0008\Downloads\dev\dev\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache

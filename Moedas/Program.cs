@@ -12,10 +12,7 @@ namespace Moedas
 
       decimal valor = 10.25m;
 
-      Console.WriteLine(
-          valor.ToString(
-            "C",
-              CultureInfo.CreateSpecificCulture("en-US")));
+      Console.WriteLine(valor.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
 
       Maths();
     }

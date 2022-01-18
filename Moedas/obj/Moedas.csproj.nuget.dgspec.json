@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\Moedas\\Moedas.csproj": {}
+    "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\Moedas\\Moedas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\Moedas\\Moedas.csproj": {
+    "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\Moedas\\Moedas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\Moedas\\Moedas.csproj",
+        "projectUniqueName": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\Moedas\\Moedas.csproj",
         "projectName": "Moedas",
-        "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\Moedas\\Moedas.csproj",
-        "packagesPath": "C:\\Users\\Illuvatar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\Moedas\\obj\\",
+        "projectPath": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\Moedas\\Moedas.csproj",
+        "packagesPath": "C:\\Users\\meuCOB0008\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\Moedas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Illuvatar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\meuCOB0008\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

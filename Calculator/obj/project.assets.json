@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Illuvatar\\.nuget\\packages\\": {}
+    "C:\\Users\\meuCOB0008\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\Illuvatar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\calculator\\obj\\",
+      "projectPath": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\meuCOB0008\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Illuvatar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\meuCOB0008\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
