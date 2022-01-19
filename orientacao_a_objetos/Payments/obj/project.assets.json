@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\meuCOB0008\\.nuget\\packages\\": {}
+    "C:\\Users\\Illuvatar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj",
+      "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj",
       "projectName": "Payments",
-      "projectPath": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj",
-      "packagesPath": "C:\\Users\\meuCOB0008\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\meuCOB0008\\Downloads\\dev\\dev\\orientacao_a_objetos\\Payments\\obj\\",
+      "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj",
+      "packagesPath": "C:\\Users\\Illuvatar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\orientacao_a_objetos\\Payments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\meuCOB0008\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Illuvatar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -6,18 +6,15 @@ namespace Payments
   {
     static void Main(string[] args)
     {
-      // Tipo de referência
-      // -> Endereço dos dados
-      Console.Clear();
-
       var customer = new Customer();
-      customer.Name = "Claudio";
+      customer.Name = "Claudio Junior";
+
       Console.WriteLine(customer.Name);
     }
-  }
 
-  class Customer
-  {
-    string Name;
+    struct Customer
+    {
+      public string Name;
+    }
   }
 }
