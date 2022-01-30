@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj": {}
+    "C:\\Users\\Illuvatar\\Downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Illuvatar\\downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj": {
+    "C:\\Users\\Illuvatar\\Downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Illuvatar\\downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj",
+        "projectUniqueName": "C:\\Users\\Illuvatar\\Downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj",
         "projectName": "Payments",
-        "projectPath": "C:\\Users\\Illuvatar\\downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj",
+        "projectPath": "C:\\Users\\Illuvatar\\Downloads\\dev\\orientacao_a_objetos\\Payments\\Payments.csproj",
         "packagesPath": "C:\\Users\\Illuvatar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Illuvatar\\downloads\\dev\\orientacao_a_objetos\\Payments\\obj\\",
+        "outputPath": "C:\\Users\\Illuvatar\\Downloads\\dev\\orientacao_a_objetos\\Payments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Illuvatar\\AppData\\Roaming\\NuGet\\NuGet.Config",

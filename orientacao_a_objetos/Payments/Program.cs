@@ -6,15 +6,59 @@ namespace Payments
   {
     static void Main(string[] args)
     {
-      var customer = new Customer();
-      customer.Name = "Claudio Junior";
+      var pagamentoBoleto = new PagamentoBoleto();
+      pagamentoBoleto.Pagar();
+      pagamentoBoleto.Vencimento = DateTime.Now;
+      pagamentoBoleto.NumeroBoleto = "123";
 
-      Console.WriteLine(customer.Name);
+      var pagamento = new Pagamento();
+      pagamento.ToString();
+
+      Console.WriteLine(pagamentoBoleto);
     }
+  }
 
-    struct Customer
+  class Pagamento
+  {
+    // Propriedades
+    public DateTime Vencimento;
+    // Métodos
+    public virtual void Pagar() {}
+
+    public override string ToString()
     {
-      public string Name;
+      return Vencimento.ToString("dd/MM/yyyy");
+    }
+  }
+
+  class PagamentoBoleto : Pagamento
+  {
+    public string NumeroBoleto;
+
+    public override void Pagar()
+    {
+      // Regra do boleto
+    }
+  }
+
+  class PagamentoCartaoCredito : Pagamento
+  {
+    public string Numero;
+
+    public override void Pagar()
+    {
+      // Regra do Cartão de Crédito
+    }
+  }
+
+  // Private, protected
+  class PagamentoModificadores
+  {
+    DateTime Vencimento;
+
+    void Pagar()
+    {
+      
     }
   }
 }
